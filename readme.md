@@ -1,0 +1,1 @@
+This is a repo for git practice.  It is a collection of files that are used to practice git commands.  The files are not important.  The commands are important.
